@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/el-mejor-dia-del-a-o/",
+  base: "/el-dia-mas-importante-del-a-o/",
 });
